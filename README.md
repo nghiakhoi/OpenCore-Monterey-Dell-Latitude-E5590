@@ -1,7 +1,7 @@
-# OpenCore-Monterey-Dell-Latitude-E5590
+# OpenCore-Monterey-Dell-Latitude-E5590<br>
 OpenCore Monterey Dell Latitude E5590
 Spec: 
-CPU: i7 8650u
+CPU: i7 8650u<br>
 RAM: 16GB
 SSD: Sandisk 256GB
 
